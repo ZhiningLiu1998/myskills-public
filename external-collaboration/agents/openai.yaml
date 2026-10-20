@@ -1,0 +1,4 @@
+interface:
+  display_name: "External Collaboration"
+  short_description: "Run research from a shared GitHub collaboration inbox"
+  default_prompt: "Use $external-collaboration to initialize this shared GitHub repository and run collaborator requests within my approved project scope."

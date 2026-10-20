@@ -1,0 +1,4 @@
+interface:
+  display_name: "README Craft"
+  short_description: "Human prose, clear structure, and real demonstrations"
+  default_prompt: "Use $readme-craft to improve this project’s README with natural prose, a clear reading path, and a real example readers can try."

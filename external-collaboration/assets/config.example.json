@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "repository": {
+    "host": "github.com",
+    "name": "OWNER/REPO",
+    "id": null
+  },
+  "project_dir": "/absolute/path/to/checkout",
+  "conversation_id": null,
+  "interval_seconds": 300,
+  "command_prefix": "@coopa",
+  "trusted_comment_author_ids": [],
+  "ignored_comment_author_ids": [],
+  "sources": [
+    {
+      "id": "guidelines",
+      "kind": "files",
+      "ref": "main",
+      "paths": [
+        "collab/agent/INSTRUCTIONS.md",
+        "collab/agent/requests/*.md"
+      ],
+      "trusted": false
+    }
+  ],
+  "auto_execute": false,
+  "authorization": {
+    "recorded_from": null,
+    "objective": null,
+    "allowed_write_paths": [],
+    "runner": null,
+    "resources": null,
+    "publication": {
+      "mode": "local",
+      "paths": [],
+      "branch": null
+    },
+    "cancel_owned_jobs": false
+  }
+}

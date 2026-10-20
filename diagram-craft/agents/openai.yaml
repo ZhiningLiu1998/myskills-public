@@ -1,0 +1,4 @@
+interface:
+  display_name: "Diagram Craft"
+  short_description: "Editable project diagrams and README teaser figures"
+  default_prompt: "Use $diagram-craft to create a clear project diagram or README teaser figure with editable SVG source and a checked visual preview."
