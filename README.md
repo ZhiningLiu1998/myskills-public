@@ -2,8 +2,8 @@
 
 A personal collection of skills for coding agents such as Codex and Claude Code.
 Each skill is a folder with a `SKILL.md` that tells the agent when and how to do
-one kind of task: editing prose, writing a README, drawing a diagram, revising a
-paper, or asking ChatGPT for a review.
+one kind of task: editing prose, writing technical docs or a README, drawing a
+diagram, revising a paper, or asking ChatGPT for a review.
 
 ## Skills
 
@@ -11,6 +11,7 @@ paper, or asking ChatGPT for a review.
 | --- | --- |
 | [`chatgpt-ui-review`](chatgpt-ui-review/) | Asks ChatGPT in your signed-in browser to review text, UI screenshots, or both, and saves the reply. |
 | [`diagram-craft`](diagram-craft/) | Creates or revises editable SVG diagrams of architecture, workflows, and methods, including README teaser figures. |
+| [`doc-writing`](doc-writing/) | Drafts, revises, or reviews technical docs such as proposals, design explanations, how-to guides, experiment reports, and progress updates. |
 | [`external-collaboration`](external-collaboration/) | Turns a shared GitHub repository into a request inbox for a Coopa agent that runs scoped experiments and reports results. |
 | [`humanizer`](humanizer/) | Rewrites AI-sounding text so it reads like the writer without changing what it says. |
 | [`public-relations`](public-relations/) | Helps with earned media: journalist pitches, newsjacking, press requests, and podcast guest prep. |

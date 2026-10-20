@@ -21,6 +21,7 @@ license files. The copies may differ from current upstream versions.
 
 ## Independently written skills with cited influences
 
-[`diagram-craft`](diagram-craft/) and [`readme-craft`](readme-craft/) are
-independently written. Their `SKILL.md` files list the projects that informed
-them under "Source" or "Sources".
+[`diagram-craft`](diagram-craft/), [`doc-writing`](doc-writing/), and
+[`readme-craft`](readme-craft/) are independently written. They list the
+projects that informed them in a "Source" or "Sources" section, or in
+[`doc-writing/references/sources.md`](doc-writing/references/sources.md).
